@@ -1,3 +1,9 @@
+/*
+ * Simple Calculator Program
+ * Author: sravan
+ * Location: /Users/sravan/Documents/GitHub/project1/calculator.java
+ */
+
 import java.util.Scanner;
 
  public class calculator
